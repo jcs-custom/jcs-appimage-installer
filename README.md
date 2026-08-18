@@ -1,3 +1,44 @@
+# JCS AppImage Installer
+
+## JCS AppImage Installer Platform
+
+The **JCS AppImage Installer** is a platform for developing and distributing
+JCS application installers in **AppImage format**.
+
+The platform is designed to provide specialized application installers for
+different user groups, educational faculties, and productivity requirements.
+
+### Installer Projects
+
+```text
+JCS AppImage Installer
+        │
+        ├── Office Staff
+        │     └── JCS Office Staff Application Installer v4.0.0
+        │
+        ├── Law Faculty
+        │     └── Future
+        │
+        ├── Education Faculty
+        │     └── Future
+        │
+        ├── Business Faculty
+        │     └── Future
+        │
+        ├── Management Faculty
+        │     └── Future
+        │
+        └── Other JCS Installers
+              └── Future 
+```
+
+The first installer released through the JCS AppImage Installer platform is:
+
+JCS Office Staff Application Installer v4.0.0
+
+It is designed to install applications that support everyday office productivity
+on Ubuntu / Debian / Lubuntu 26.04 or equivalent Linux distributions.
+                
 # JCS Office Staff Application Installer
 
 ## Story
@@ -135,15 +176,17 @@ If you prefer a ready-to-use solution, you can order our **hardware SSD with enc
 We can also provide a **customized SSD configuration** based on your requirements.
 
 For inquiries and customization, please contact us via Telegram: **@Arievandjava**
-
-Regards,
-
-Java Cyber Sovereignty - Jakarta, Indonesia
-
 ---
 
 ## SHA-256
 
 ```text
 605d1e0eeafa589c564fdaa5923c782b226859f53cf986b870e9289bba4e493e
+```
 
+---
+
+Regards,
+
+**Java Cyber Sovereignty**  
+Jakarta, Indonesia
