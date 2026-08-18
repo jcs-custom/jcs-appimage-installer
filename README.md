@@ -29,7 +29,7 @@ JCS AppImage Installer
               └── Future 
 ```
 
-All will released through the JCS AppImage Installer platform. It's designed to ease user to install all applications needed base on user group occupancy (office, law faculty student, Education faculty student, etc) only with two clicks of mouse on Ubuntu / Debian / Lubuntu 26.04 or equivalent Linux distributions. Fast, free, reliable and hardware freedom - perfect combo.       
+All will released through the JCS AppImage Installer platform. It's designed to ease user to install all applications needed base on user group occupancy (office, law faculty student, Education faculty student, etc) on Ubuntu / Debian / Lubuntu varian or equivalent Linux distributions. Fast, free, reliable and hardware freedom - perfect combo.       
 
 ## Story
 
