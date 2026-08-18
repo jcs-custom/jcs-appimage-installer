@@ -1,0 +1,26 @@
+ONLYOFFICE|org.onlyoffice.desktopeditors|onlyoffice-desktopeditors|onlyoffice-desktopeditors|flatpak
+WPS Office|com.wps.Office||wps-office|flatpak
+TextSnatcher|com.github.rajsolai.textsnatcher|||flatpak
+GIMP|org.gimp.GIMP|gimp|gimp|flatpak
+Krita|org.kde.krita|krita|krita|flatpak
+OBS Studio|com.obsproject.Studio|obs-studio|obs-studio|flatpak
+Kdenlive|org.kde.kdenlive|kdenlive|kdenlive|flatpak
+LibreWolf|io.gitlab.librewolf-community|librewolf|librewolf|flatpak
+Google Chrome|com.google.Chrome||google-chrome-stable|flatpak
+Opera GX|com.opera.opera-gx|opera-gx|opera-stable|flatpak
+GnuCash|org.gnucash.GnuCash|gnucash|gnucash|flatpak
+Inkscape|org.inkscape.Inkscape|inkscape|inkscape|flatpak
+Scribus|net.scribus.Scribus|scribus|scribus|flatpak
+Zoom|us.zoom.Zoom|zoom-client|zoom|flatpak
+Microsoft Teams|com.github.IsmaelMartinez.teams_for_linux||teams|flatpak
+Telegram|org.telegram.desktop|telegram|telegram-desktop|flatpak
+eOVPN|com.github.jkotra.eovpn|||flatpak
+ZapZap|com.rtosta.zapzap|||flatpak
+ClamUI|io.github.linx_systems.ClamUI|||flatpak
+draw.io|com.jgraph.drawio.desktop|||flatpak
+CopyQ|com.github.hluk.copyq|copyq|copyq|flatpak
+PeaZip|io.github.peazip.PeaZip||peazip|flatpak
+Sticky Notes|com.vixalien.sticky|||flatpak
+Logseq|com.logseq.Logseq|||flatpak
+Super Productivity|com.super_productivity.SuperProductivity|||flatpak
+Osmo|net.sourceforge.osmo|||flatpak

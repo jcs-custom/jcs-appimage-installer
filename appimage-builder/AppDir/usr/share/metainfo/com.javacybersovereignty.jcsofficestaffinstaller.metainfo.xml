@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="desktop-application">
+
+    <id>com.javacybersovereignty.jcsofficestaffinstaller</id>
+
+    <name>JCS Office Staff Installer</name>
+
+    <summary>
+        Automated office application installer
+    </summary>
+
+    <metadata_license>MIT</metadata_license>
+
+    <project_license>MIT</project_license>
+
+    <developer id="com.javacybersovereignty">
+        <name>JAVA CYBER SOVEREIGNTY</name>
+    </developer>
+
+    <url type="homepage">
+        https://github.com
+    </url>
+
+    <description>
+        <p>
+            JCS Office Staff Installer automatically installs
+            selected productivity applications for office environments.
+        </p>
+
+        <p>
+            Designed for JCS custom Linux environments.
+        </p>
+    </description>
+
+    <launchable type="desktop-id">
+        JCS-Office-Staff-Installer.desktop
+    </launchable>
+
+    <provides>
+        <binary>jcs-office-installer</binary>
+    </provides>
+
+    <content_rating type="oars-1.1">
+    </content_rating>
+
+</component>

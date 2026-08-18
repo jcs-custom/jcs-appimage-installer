@@ -1,0 +1,26 @@
+ONLYOFFICE|org.onlyoffice.desktopeditors|onlyoffice-desktopeditors|onlyoffice-desktopeditors
+WPS Office|com.wps.Office||wps-office
+TextSnatcher|com.github.rajsolai.textsnatcher||
+GIMP|org.gimp.GIMP|gimp|gimp
+Krita|org.kde.krita|krita|krita
+OBS Studio|com.obsproject.Studio|obs-studio|obs-studio
+Kdenlive|org.kde.kdenlive|kdenlive|kdenlive
+LibreWolf|io.gitlab.librewolf-community|librewolf|librewolf
+Google Chrome|com.google.Chrome||google-chrome-stable
+Opera GX|com.opera.opera-gx|opera-gx|opera-stable
+GnuCash|org.gnucash.GnuCash|gnucash|gnucash
+Inkscape|org.inkscape.Inkscape|inkscape|inkscape
+Scribus|net.scribus.Scribus|scribus|scribus
+Zoom|us.zoom.Zoom|zoom-client|zoom
+Microsoft Teams|com.github.IsmaelMartinez.teams_for_linux||teams
+Telegram|org.telegram.desktop|telegram|telegram-desktop
+eOVPN|com.github.jkotra.eovpn||
+ZapZap|com.rtosta.zapzap||
+ClamUI|io.github.linx_systems.ClamUI||
+draw.io|com.jgraph.drawio.desktop||
+CopyQ|com.github.hluk.copyq|copyq|copyq
+PeaZip|io.github.peazip.PeaZip||peazip
+Sticky Notes|com.vixalien.sticky||
+Logseq|com.logseq.Logseq||
+Super Productivity|com.super_productivity.SuperProductivity||
+Osmo|net.sourceforge.osmo||

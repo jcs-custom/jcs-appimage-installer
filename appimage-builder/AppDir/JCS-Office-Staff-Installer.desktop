@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=JCS Office Staff Installer
+Comment=Install Office Staff Applications
+Exec=jcs-office-installer
+Icon=jcs-office-installer
+Terminal=true
+Categories=Utility;

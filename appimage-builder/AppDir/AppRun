@@ -1,0 +1,101 @@
+#!/bin/bash
+
+HERE="$(dirname "$(readlink -f "$0")")"
+
+INSTALLER="$HERE/usr/bin/office-auto-install.sh"
+
+
+# ==========================================
+# If already running inside a terminal,
+# run installer directly.
+# ==========================================
+
+if [ -t 1 ]; then
+    exec "$INSTALLER"
+fi
+
+
+# ==========================================
+# Launch through the system's preferred
+# terminal emulator.
+# ==========================================
+
+if command -v x-terminal-emulator >/dev/null 2>&1
+then
+    exec x-terminal-emulator -e "$INSTALLER"
+fi
+
+
+# ==========================================
+# QTerminal
+# ==========================================
+
+if command -v qterminal >/dev/null 2>&1
+then
+    exec qterminal -e "$INSTALLER"
+fi
+
+
+# ==========================================
+# XFCE Terminal
+# ==========================================
+
+if command -v xfce4-terminal >/dev/null 2>&1
+then
+    exec xfce4-terminal --command="$INSTALLER"
+fi
+
+
+# ==========================================
+# GNOME Terminal
+# ==========================================
+
+if command -v gnome-terminal >/dev/null 2>&1
+then
+    exec gnome-terminal -- "$INSTALLER"
+fi
+
+
+# ==========================================
+# KDE Konsole
+# ==========================================
+
+if command -v konsole >/dev/null 2>&1
+then
+    exec konsole -e "$INSTALLER"
+fi
+
+
+# ==========================================
+# MATE Terminal
+# ==========================================
+
+if command -v mate-terminal >/dev/null 2>&1
+then
+    exec mate-terminal --command="$INSTALLER"
+fi
+
+
+# ==========================================
+# LXTerminal
+# ==========================================
+
+if command -v lxterminal >/dev/null 2>&1
+then
+    exec lxterminal -e "$INSTALLER"
+fi
+
+
+# ==========================================
+# No terminal found
+# ==========================================
+
+echo ""
+echo "===================================="
+echo " JCS Office Staff Installer"
+echo "===================================="
+echo ""
+echo "ERROR:"
+echo "No supported terminal emulator was found."
+echo ""
+exit 1

@@ -1,0 +1,29 @@
+Project:
+JCS Office Staff Auto Installer
+
+Version:
+1.0
+
+Base OS:
+Lubuntu 26.04
+
+Architecture:
+x86_64
+
+Purpose:
+Automatic installation of Office Staff applications
+for JCS Custom Lubuntu ISO.
+
+Build Environment:
+Lubuntu 26.04
+
+Installer Type:
+AppImage
+
+Application Sources:
+Flatpak
+DEB
+Snap
+
+Original Application List:
+JCS-business-App-Installation-List.xlsx
