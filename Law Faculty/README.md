@@ -30,27 +30,27 @@ Our installer will automatically check the system and install the required appli
 
 ### It will install all of these apps at once:
 
-(1) ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
-(2) WPS Office	(Word processing, spreadsheets, presentations and document creation)
-(3) Joplin	(application to create multiple types of notes, reminders, and alarms)
-(4) Obsidian	(powerful knowledge base that works on top of a local folder of plain text Markdown files)
-(5) Digikam	(digital photo management application) 
-(6) Kdenlive	(Non-linear video editing and science-project video production)
-(7) Google Chrome	(General web browsing, research and web applications)
-(8) Opera GX	(Web browsing and digital-content activities)
-(9) Notion (Cohesion	single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want).
-(10) Xournal++	(hand note-taking software with the target of flexibility, functionality and speed)
-(11) Rnote 	(vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures)
-(12) Discord	(all in one messaging, voice, and video client)
-(13) PDF Reader	(viewing, printing, and annotating PDF documents)
-(14) Zoom	(Online meetings, classes and collaboration)
-(15) Microsoft Teams	(Online meetings, classes and collaboration)
-(16) Telegram	(Messaging, communication and group collaboration)
-(17) ZapZap	(Wharsapp Chatting and messaging)
-(18) PeaZip	 (archive manager utility)
-(19) Sticky Note	 (to create flying notes on desktop) 
-(20) Stirling-PDF	(PDF manipulation, conversion, merging, splitting and document processing)
-(21) Rainlendar	(feature rich calendar application) 
+1. ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
+2. WPS Office	(Word processing, spreadsheets, presentations and document creation)
+3. Joplin	(application to create multiple types of notes, reminders, and alarms)
+4. Obsidian	(powerful knowledge base that works on top of a local folder of plain text Markdown files)
+5. Digikam	(digital photo management application) 
+6. Kdenlive	(Non-linear video editing and science-project video production)
+7. Google Chrome	(General web browsing, research and web applications)
+8. Opera GX	(Web browsing and digital-content activities)
+9. Notion (Cohesion	single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want).
+10. Xournal++	(hand note-taking software with the target of flexibility, functionality and speed)
+11. Rnote 	(vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures)
+12. Discord	(all in one messaging, voice, and video client)
+13. PDF Reader	(viewing, printing, and annotating PDF documents)
+14. Zoom	(Online meetings, classes and collaboration)
+15. Microsoft Teams	(Online meetings, classes and collaboration)
+16. Telegram	(Messaging, communication and group collaboration)
+17. ZapZap	(Wharsapp Chatting and messaging)
+18. PeaZip	 (archive manager utility)
+19. Sticky Note	 (to create flying notes on desktop) 
+20. Stirling-PDF	(PDF manipulation, conversion, merging, splitting and document processing)
+21. Rainlendar	(feature rich calendar application) 
 
 PLEASE NOTE:
 Before you start:  please make sure you have a  stable internet connections during the installation process. It will take  for about 15-20 minutes more & less, depending on your bandwidth, processor and memory."Un-stable internet connection" could ruin the installation process.
