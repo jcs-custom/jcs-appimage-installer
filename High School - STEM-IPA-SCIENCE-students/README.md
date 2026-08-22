@@ -7,7 +7,7 @@ This is an installer application to install apps & tools that are widely used by
 
 This project began in response to the rising cost of new computers and laptops in 2026, combined with the hardware requirements of Windows 11, including the requirement for TPM 2.0 on supported systems.
 
-As a result, many people are facing the difficult choice of purchasing new hardware simply to continue using a modern operating system. Many of my friends who have a kids in university experienced struggling  to buy new pc/laptop just to be able use Windows OS. Nowadays those paradigm isn't accurate. Modern Linux OS can do much better.
+As a result, many people are facing the difficult choice of purchasing new hardware simply to continue using a modern operating system. Many of my friends who have a kids in school experienced struggling  to buy new pc/laptop just to be able use Windows OS. Nowadays those paradigm isn't accurate. Modern Linux OS can do much better.
 
 I suggested **Lubuntu** as an alternative because it is lightweight, runs well on older hardware, provides a familiar desktop experience for Windows users, and supports productivity applications such as **ONLYOFFICE** and **WPS Office**, which can open and edit Microsoft Office-compatible documents (i.e *.docx, *.doc, *.xlsx, *.xls, *.pptm, *.ppsx and *.potx).
 
