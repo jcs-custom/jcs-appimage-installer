@@ -30,36 +30,36 @@ Our installer will automatically check the system and install the required appli
 
 ### It will install all of these apps at once:
 
-1. ONLYOFFICE	Word processing, spreadsheets, presentations and document creation
-2. WPS Office	Word processing, spreadsheets, presentations and document creation
+1. ONLYOFFICE	- Word processing, spreadsheets, presentations and document creation
+2. WPS Office	- Word processing, spreadsheets, presentations and document creation
 3. TextSnatcher	OCR — extracting text from images, photographs and screenshots
-4. GIMP	Image editing, scientific illustrations and graphics
-5. Krita	Digital painting, illustration and scientific artwork
-6. OBS Studio	Screen recording, live streaming and project demonstration
-7. Kdenlive	Non-linear video editing and science-project video production
-8. LibreWolf	Privacy-focused web browsing and online research
-9. Google Chrome	General web browsing, research and web applications
-10. Opera GX	Web browsing and digital-content activities
-11. GnuCash	Small-business accounting and bookkeeping
-12. Inkscape	Vector graphics, diagrams and technical illustrations
-13. Scribus	Desktop publishing, posters and document layout
-14. Zoom	Online meetings, classes and collaboration
-15. Microsoft Teams	Online meetings, classes and collaboration
-16. Telegram	Messaging, communication and group collaboration
-17. ZapZap	Whatassap Chatting and messaging
-18. ClamUI	Graphical ClamAV malware scanning
-19. draw.io	 Diagramming tool. Create flowcharts, process diagrams
-20. CopyQ	 clipboard manager with editing and scripting features.
-21. PeaZip	 archive manager utility
-22. Sticky Note	 to create flying notes on desktop
-23. LogSec	A local-first, non-linear, outliner notebook
-24. Joplin	open source note taking and to-do application
-25. Rnote	vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures
-26. QGIS Desktop	Open Source Geographic Information System (GIS)
-27. Marble	virtual globe and world atlas
-28. KGeography	KGeography is a geography learning tool, which allows you to learn about the political divisions of some countries
-29. HomeBank	assist you to manage your personal accounting
-30. Stirling-PDF	PDF manipulation, conversion, merging, splitting and document processing
+4. GIMP	- Image editing, scientific illustrations and graphics
+5. Krita	- Digital painting, illustration and scientific artwork
+6. OBS Studio	Screen recording - live streaming and project demonstration
+7. Kdenlive	- Non linear video editing and science-project video production
+8. LibreWolf	- Privacy focused web browsing and online research
+9. Google Chrome - General web browsing, research and web applications
+10. Opera GX	- Web browsing and digital-content activities
+11. GnuCash	- Small-business accounting and bookkeeping
+12. Inkscape	- Vector graphics, diagrams and technical illustrations
+13. Scribus	- Desktop publishing, posters and document layout
+14. Zoom	- Online meetings, classes and collaboration
+15. Microsoft Teams	Online meetings - classes and collaboration
+16. Telegram	- Messaging, communication and group collaboration
+17. ZapZap	- Whatassap Chatting and messaging
+18. ClamUI	- Graphical ClamAV malware scanning
+19. draw.io	 - Diagramming tool. Create flowcharts, process diagrams
+20. CopyQ	 - clipboard manager with editing and scripting features.
+21. PeaZip	 - archive manager utility
+22. Sticky Note	 - create flying notes on desktop
+23. LogSec	- A local-first, non-linear, outliner notebook
+24. Joplin	- open source note taking and to-do application
+25. Rnote	- vector based drawing app for sketching, handwritten notes and to annotate documents and pictures
+26. QGIS - Desktop	Open Source Geographic Information System (GIS)
+27. Marble	- virtual globe and world atlas
+28. KGeography - geography learning tool, which allows you to learn about the political divisions of some countries
+29. HomeBank	- assist you to manage your personal accounting
+30. Stirling-PDF	- PDF manipulation, conversion, merging, splitting and document processing
 
 PLEASE NOTE:
 Before you start:  please make sure you have a  stable internet connections during the installation process. It will take  for about 15-20 minutes more & less, depending on your bandwidth, processor and memory."Un-stable internet connection" could ruin the installation process.
