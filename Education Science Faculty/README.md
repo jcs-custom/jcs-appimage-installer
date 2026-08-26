@@ -1,4 +1,4 @@
-# JCS - Education Science Faculty Student Installer
+# JCS - Education Science Faculty Students Installer
 
 
 This is an installer application to install apps & tools that are widely used by students who are attending in Education Science Faculty.  It could be useful to support daily/everyday students productivity on **latest Ubuntu / Debian / Lubuntu OS variants or equivalent**. 
