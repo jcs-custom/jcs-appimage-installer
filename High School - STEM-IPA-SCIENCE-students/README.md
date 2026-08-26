@@ -17,56 +17,48 @@ The goal of this project is simple:
 - **No need to replace working hardware simply because it is too old for Windows 11**
 - **No need to manually install dozens of applications one by one**
 - **Use lightweight Linux software to extend the useful life of existing hardware**
-
-Overview:
-Install Lubuntu OS on your SSD or HDD on your own (go to YouTube search: how to install Lubuntu)
-after you have SSD/HDD with Lubuntu installed then open firefox browser to download our installer (JCS-High-School-STEM-IPA-SCIENCE-students-installer.AppImage) and double click it to run it.
-
 ---
 
 ## JCS - High School STEM /IPA /SCIENCE students installer
-
-Our installer will automatically check the system and install the required applications only by double click it.
-
 ### It will install all of these apps at once:
 
-1. ONLYOFFICE	-Word processing, spreadsheets, presentations and document creation
-2. WPS Office	-Word processing, spreadsheets, presentations and document creation
-3. TextSnatcher	-OCR extracting text from images, photographs and screenshots
-4. GIMP	-Image editing, scientific illustrations and graphics
-5. Krita	-Digital painting, illustration and scientific artwork
-6. OBS Studio	-Screen recording, live streaming and project demonstration
-7. Kdenlive	-Non-linear video editing and science-project video production
-8. LibreWolf	-Privacy-focused web browsing and online research
-9. Google Chrome	-General web browsing, research and web applications
-10. Opera GX	-Web browsing and digital-content activities
-11. GnuCash	-Small-business accounting and bookkeeping
-12. Inkscape	-Vector graphics, diagrams and technical illustrations
-13. Scribus	-Desktop publishing, posters and document layout
-14. Zoom	-Online meetings, classes and collaboration
-15. Microsoft -Teams	Online meetings, classes and collaboration
-16. Telegram	-Messaging, communication and group collaboration
-17. ZapZap	-Whatsapp Chatting and messaging
-18. ClamUI	-Graphical ClamAV malware scanning
-19. draw.io	 -Diagramming tool. Create flowcharts, process diagrams
-20. PeaZip	 -archive manager utility
-21. Sticky Note	 -to create flying notes on desktop
-22. kalgebra	-application that replace  graphing calculator
-23. kig	-interactive mathematics software for learning and teaching geometry
-24. GNU Octave	-high level interpreted language, primarily intended for numerical computations
-25. LabPlot	-Scientific plotting, graphing and experimental data analysis
-26. KStars	-Astronomy Software accurate graphical simulation of the night sky, from any location on Earth, at any date and time
-27. Stellarium	-Digital planetarium and night-sky simulation
-28. Logisim	-tool for designing and simulating digital logic circuits
-29. KiCad	-open-source electronics design automation (EDA) suite
-30. FreeCAD	-open-source parametric 3D modeler built to design real-world objects
-31. Kalzium	-a program that shows you the Periodic Table of Elements
-32. Avogadro	-advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas
-33. Molsketch	-program for drawing two-dimensional schematic representations of molecules
-34. Marble	-virtual globe and world atlas
-35. Thonny	-simple Python IDE with features useful for learning programming
-36. arduinoide	-open-source electronics prototyping platform based on flexible, easy-to-use hardware and software
-37. Stirling-PDF	-PDF manipulation, conversion, merging, splitting and document processing
+1. ONLYOFFICE  (Word processing, spreadsheets, presentations and document creation)
+2. WPS Office  (Word processing, spreadsheets, presentations and document creation)
+3. TextSnatcher  (OCR extracting text from images, photographs and screenshots)
+4. GIMP  (Image editing, scientific illustrations and graphics)
+5. Krita  (Digital painting, illustration and scientific artwork)
+6. OBS Studio  (Screen recording, live streaming and project demonstration)
+7. Kdenlive  (Non-linear video editing and science-project video production)
+8. LibreWolf  (Privacy-focused web browsing and online research)
+9. Google Chrome  (General web browsing, research and web applications)
+10. Opera GX  (Web browsing and digital-content activities)
+11. GnuCash  (Small-business accounting and bookkeeping)
+12. Inkscape  (Vector graphics, diagrams and technical illustrations)
+13. Scribus  (Desktop publishing, posters and document layout)
+14. Zoom  (Online meetings, classes and collaboration)
+15. Microsoft -Teams  (Online meetings, classes and collaboration)
+16. Telegram  (Messaging, communication and group collaboration)
+17. ZapZap  (Whatsapp Chatting and messaging)
+18. ClamUI  (Graphical ClamAV malware scanning)
+19. draw.io  (Diagramming tool. Create flowcharts, process diagrams)
+20. PeaZip  (archive manager utility)
+21. Sticky Note  (to create flying notes on desktop)
+22. kalgebra  (application that replace  graphing calculator)
+23. kig  (interactive mathematics software for learning and teaching geometry)
+24. GNU Octave  (high level interpreted language, primarily intended for numerical computations)
+25. LabPlot  (Scientific plotting, graphing and experimental data analysis)
+26. KStars  (Astronomy Software accurate graphical simulation of the night sky, from any location on Earth, at any date and time)
+27. Stellarium  (Digital planetarium and night-sky simulation)
+28. Logisim  (tool for designing and simulating digital logic circuits)
+29. KiCad  (open-source electronics design automation (EDA) suite)
+30. FreeCAD  (open-source parametric 3D modeler built to design real-world objects)
+31. Kalzium  (a program that shows you the Periodic Table of Elements)
+32. Avogadro  (advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas)
+33. Molsketch  (program for drawing two-dimensional schematic representations of molecules)
+34. Marble  (virtual globe and world atlas)
+35. Thonny  (simple Python IDE with features useful for learning programming)
+36. arduinoide  (open-source electronics prototyping platform based on flexible, easy-to-use hardware and software)
+37. Stirling-PDF  (PDF manipulation, conversion, merging, splitting and document processing)
 
 PLEASE NOTE:
 Before you start:  please make sure you have a  stable internet connections during the installation process. It will take  for about 15-20 minutes more & less, depending on your bandwidth, processor and memory."Un-stable internet connection" could ruin the installation process.
@@ -75,20 +67,37 @@ Before you start:  please make sure you have a  stable internet connections duri
 
 ## Installation
 
-Before you start: please Install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD by your own (go to YouTube search key: how to install Lubuntu OS  to learn how to do it). After you have SSD/HDD with Lubuntu installed then open firefox browser to download our installer on this page & saved on the download folder.  Then click the file to run it. 
-It's been tested working fine on Lubuntu 26.04 LTS (i  don't have time yet to test it on Debian/Ubuntu or any other equivalent varian). Since Lubuntu based on Ubuntu, installing it to Debian/Ubuntu should be ok. 
+Please install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD on your own (search YouTube for "how to install Lubuntu OS" if you need a guide). Once your system has Lubuntu installed, you can proceed with the installation process below.
 
-Simply:
+FYI, `JCS-High-School-STEM-IPA-SCIENCE-students-installer.AppImage` will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
 
-1. Download the AppImage.
-2. Make sure the AppImage is executable.
-3. Double-click the AppImage to start the installer.
-4. The installer will automatically check the system and install the required applications.
+1. Open your terminal (press Ctrl + Alt + T).
+2. Update the package list:
+```text
+sudo apt update
+```
+Wait until the process finishes.
+
+3. Install Flatpak:
+```text
+sudo apt install flatpak -y
+```
+Wait until the process finishes.
+
+4. Add the Flathub repository:
+```text
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+Wait until the process finishes.
+
+5. Restart your computer so your desktop environment recognizes Flatpak integration.
+6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
+7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
+8. Double-click the AppImage to start the installer.
+9. The installer will automatically check the system and install the required applications.
 
 Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
-
----
 
 ## Tested Hardware
 
@@ -125,5 +134,4 @@ Jakarta, Indonesia
 ## SHA-256
 
 ```text
-934abdada3adf49dac85195f46901c7ecbdbdef324de04bde60d544d92589ff7  
-
+934abdada3adf49dac85195f46901c7ecbdbdef324de04bde60d544d92589ff7
