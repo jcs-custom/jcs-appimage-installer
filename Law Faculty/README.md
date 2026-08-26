@@ -80,7 +80,7 @@ Wait until the process finishes.
 6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
 7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
 8. Double-click the AppImage to start the installer.
-9. The installer will automatically check the system and install the required applications.
+9. The installer will automatically check the system and install the required dependency applications.
 
 Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
