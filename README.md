@@ -48,22 +48,39 @@ The goal of this project is simple:
 
 ---
 
-## Overview
+## Installation
 
-First, install **Lubuntu OS** on your SSD or HDD.
+Please install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD on your own (search YouTube for "how to install Lubuntu OS" if you need a guide). Once your system has Lubuntu installed, you can proceed with the installation process below.
 
-If you need help installing Lubuntu, you can search YouTube for:
+FYI, Our installer will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
 
-> `How to install Lubuntu OS 26.04`
+1. Open your terminal (press Ctrl + Alt + T).
+2. Update the package list:
+```text
+sudo apt update
+```
+Wait until the process finishes.
 
-Once you have an SSD or HDD with Lubuntu installed:
+3. Install Flatpak:
+```text
+sudo apt install flatpak -y
+```
+Wait until the process finishes.
 
-1. Open the Firefox browser.
-2. Download our AppImage installer at our release page.
-3. Make the AppImage executable if necessary.
-4. Double-click the AppImage to start the installation.
+4. Add the Flathub repository:
+```text
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+Wait until the process finishes.
 
-The **JCS Installer** will automatically install all of applications as chosen.
+5. Restart your computer so your desktop environment recognizes Flatpak integration.
+6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
+7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
+8. Double-click the AppImage to start the installer.
+9. The installer will automatically check the system and install the applications and it's dependency necessary.
+
+Applications that are already installed on your OS will be detected and skipped.
+There is no need to manually install each application individually.
 
 ---
 
