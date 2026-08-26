@@ -1,17 +1,14 @@
 # JCS Office Staff Application Installer
 
-JCS Office Staff Application Installer 
-
-It is designed to install applications that support everyday office productivity
-on Ubuntu / Debian / Lubuntu 26.04 or equivalent Linux distributions.
+JCS Office Staff Application Installer is an installer in **AppImage format** designed to install applications that support everyday office productivity on **latest Ubuntu / Debian / Lubuntu OS variants or equivalent**.
 
 ## Story
 
 This project began in response to the rising cost of new computers and laptops in 2026, combined with the hardware requirements of Windows 11, including the requirement for TPM 2.0 on supported systems.
 
-As a result, many people are facing the difficult choice of purchasing new hardware simply to continue using a modern operating system. Many of my friends have experienced this situation.
+As a result, many of working class people are struggling to purchasing new hardware simply to continue using  WIndows OS. Nowadays those paradigm isn't accurate. Modern Linux OS can do much better.
 
-I suggested **Lubuntu** as an alternative because it is lightweight, runs well on older hardware, provides a familiar desktop experience for Windows users, and supports productivity applications such as **ONLYOFFICE** and **WPS Office**, which can open and edit Microsoft Office-compatible documents.
+I suggested **Lubuntu** as an alternative because it is lightweight, runs well on older hardware, provides a familiar desktop experience for Windows users, and supports productivity applications such as **ONLYOFFICE** and **WPS Office**, which can open and edit Microsoft Office-compatible documents (i.e *.docx, *.doc, *.xlsx, *.xls, *.pptm, *.ppsx and *.potx ).
 
 The goal of this project is simple:
 
@@ -22,39 +19,9 @@ The goal of this project is simple:
 
 ---
 
-## Overview
-
-First, install **Lubuntu OS** on your SSD or HDD.
-
-If you need help installing Lubuntu, you can search YouTube for:
-
-> `How to install Lubuntu OS 26.04`
-
-Once you have an SSD or HDD with Lubuntu installed:
-
-1. Open the Firefox browser.
-2. Download our installer:
-   **`JCS-Office-Staff-Installer-v4-x86_64.AppImage`**
-3. Make the AppImage executable if necessary.
-4. Double-click the AppImage to start the installation.
-
-The **JCS Office Staff Application Installer** will automatically install the applications required for everyday office productivity.
-
----
-
 ## JCS Office Staff Application Installer
 
-JCS Office Staff Application Installer is an installer in **AppImage format** designed to install applications that support everyday office productivity on **Ubuntu / Debian / Lubuntu 26.04 or equivalent Linux distributions**.
-
-### No Manual Installation Required
-
-Our installer will automatically check the system and install the required applications.
-
-Applications that are already installed will be detected and skipped.
-
----
-
-## Included Applications
+### It will install all of these apps at once:
 
 1. **ONLYOFFICE** — Office productivity suite for documents, spreadsheets, and presentations
 2. **WPS Office** — Office productivity suite for documents, spreadsheets, presentations, and PDF files
@@ -85,29 +52,42 @@ Applications that are already installed will be detected and skipped.
 27. **Stirling-PDF** — PDF document management and processing
 28. **Wireguird GUI** — Graphical interface for WireGuard VPN configuration
 
----
-
-## Please Note
-
-Before starting the installation, make sure you have a **stable internet connection**.
-
-The installation process may take approximately **15–20 minutes**, depending on your internet bandwidth and computer hardware, including processor and memory performance.
-
-An unstable internet connection may cause the installation process to fail.
+PLEASE NOTE:
+Before you start:  please make sure you have a  stable internet connections during the installation process. It will take  for about 15-20 minutes more & less, depending on your bandwidth, processor and memory."Un-stable internet connection" could ruin the installation process.
 
 ---
 
 ## Installation
 
-Simply:
+Please Install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD by your own (go to YouTube search key: how to install Lubuntu OS  to learn how to do it). After you have SSD/HDD with Lubuntu installed, then we can continue to installation process.
 
-1. Download the AppImage.
-2. Make sure the AppImage is executable.
-3. Double-click the AppImage to start the installer.
-4. The installer will automatically check the system and install the required applications.
+FYI, `JCS-Office-Staff-Installer-v4-x86_64.AppImage` will install all apps in it; mostly via "Flatpak". Since Lubuntu does not comes with "Flatpak" preinstalled out of the box, you need to install set it up by yourself. To do so please follow:
 
-Applications that are already installed will be detected and skipped.
+1. Open your terminal (press Ctrl + Alt + T).
+2. Then on the terminal type:
+```text 
+sudo apt update
+```
 
+wait until the process finish.
+3. Then Install the Flatpak, type:
+```text 
+sudo apt install flatpak
+```
+
+wait until the process finish.
+4. Then Install the Flathub repository
+ ```text 
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+wait until the process finish.
+5. Then Restart your computer to finish the setup.
+6. Open firefox browser to download our installer on this page & saved on the download folder.  
+7. Then "Right Click" your mouse on the file you just downloaded to make it executable.
+8. Double-click the AppImage to start the installer.
+9. The installer will automatically check the system and install the required applications.
+
+Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
 
 ---
@@ -120,6 +100,7 @@ This installer has been tested on:
 - **CPU:** Intel Core i3 (2nd Generation)
 - **RAM:** 8 GB
 - **OS:** Lubuntu 26.04 LTS
+- **OTHERS:** i  don't have time yet to test it on Debian/Ubuntu or any other equivalent varian. Since Lubuntu based on Ubuntu, installing it to Debian/Ubuntu should be ok.
 
 ---
 
@@ -127,7 +108,7 @@ This installer has been tested on:
 
 **AppImage**
 
-### File
+File:
 
 `JCS-Office-Staff-Installer-v4-x86_64.AppImage`
 
@@ -135,9 +116,11 @@ This installer has been tested on:
 
 ## Don't Want to Install Everything Yourself?
 
-If you prefer a ready-to-use solution, you can order our **hardware SSD with enclosure**, pre-configured with the latest release of Lubuntu and all of the applications listed above.
+If you prefer a ready-to-use solution, you can order our **hardware SSD with enclosure**, pre-configured with latest release of Lubuntu and all of the applications listed above. We can also provide a **customized SSD configuration** based on your requirements. For inquiries and customization, please contact us via Telegram: **@Arievandjava**
 
-We can also provide a **customized SSD configuration** based on your requirements. For inquiries and customization, please contact us via Telegram: **@Arievandjava**
+Regards,  
+**Java Cyber Sovereignty**  
+Jakarta, Indonesia
 
 ---
 
@@ -146,10 +129,6 @@ We can also provide a **customized SSD configuration** based on your requirement
 ```text
 605d1e0eeafa589c564fdaa5923c782b226859f53cf986b870e9289bba4e493e
 ```
-
----
-
-Regards,
 
 **Java Cyber Sovereignty**  
 Jakarta, Indonesia
