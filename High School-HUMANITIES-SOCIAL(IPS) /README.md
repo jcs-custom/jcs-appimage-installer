@@ -60,32 +60,32 @@ Before you start:  please make sure you have a  stable internet connections duri
 
 ## Installation
 
-Please Install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD by your own (go to YouTube search key: how to install Lubuntu OS  to learn how to do it). After you have SSD/HDD with Lubuntu installed, then we can continue to installation process.
+Please install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD on your own (search YouTube for "how to install Lubuntu OS" if you need a guide). Once your system has Lubuntu installed, you can proceed with the installation process below.
 
-
-FYI, `JCS-High-School-HUMANITIES-SOCIAL-SCIENCE-students-installer.AppImage` will install all apps in it; mostly via "Flatpak". Since Lubuntu does not comes with "Flatpak" preinstalled out of the box, you need to install set it up by yourself. To do so please follow:
+FYI, `JCS-High-School-STEM-IPA-SCIENCE-students-installer.AppImage` will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
 
 1. Open your terminal (press Ctrl + Alt + T).
-2. Then on the terminal type:
-```text 
+2. Update the package list:
+```text
 sudo apt update
 ```
+Wait until the process finishes.
 
-wait until the process finish.
-3. Then Install the Flatpak, type:
-```text 
-sudo apt install flatpak
+3. Install Flatpak:
+```text
+sudo apt install flatpak -y
 ```
+Wait until the process finishes.
 
-wait until the process finish.
-4. Then Install the Flathub repository
- ```text 
+4. Add the Flathub repository:
+```text
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
-wait until the process finish.
-5. Then Restart your computer to finish the setup.
-6. Open firefox browser to download our installer on this page & saved on the download folder.  
-7. Then "Right Click" your mouse on the file you just downloaded to make it executable.
+Wait until the process finishes.
+
+5. Restart your computer so your desktop environment recognizes Flatpak integration.
+6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
+7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
 8. Double-click the AppImage to start the installer.
 9. The installer will automatically check the system and install the required applications.
 
