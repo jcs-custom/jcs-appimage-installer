@@ -98,6 +98,8 @@ Wait until the process finishes.
 Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
 
+---
+
 ## Tested Hardware
 
 This installer has been tested on:
