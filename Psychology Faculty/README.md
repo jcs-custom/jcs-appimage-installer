@@ -1,4 +1,4 @@
-# JCS - Psychology Faculty Students installer
+# JCS - Psychology Faculty [Students Installer]
 
 
 This is an installer application to install apps & tools that are widely used by students which attending Psychology Faculty.  It could be useful to support daily/everyday students productivity on **latest Ubuntu / Debian / Lubuntu OS variants or equivalent**. 
