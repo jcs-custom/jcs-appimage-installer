@@ -24,7 +24,7 @@ The goal of this project is simple:
 
 ### It will install all of these apps at once:
 
-1.  ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
+1. ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
 2. WPS Office	(Word processing, spreadsheets, presentations and document creation)
 3. Joplin	(application to create multiple types of notes, reminders, and alarms)
 4. Obsidian	(powerful knowledge base that works on top of a local folder of plain text Markdown files)
@@ -77,7 +77,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 Wait until the process finishes.
 
 5. Restart your computer so your desktop environment recognizes Flatpak integration.
-6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
+6. Open Firefox browser to download your choice of installer from our release page and save it to your Downloads folder.
 7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
 8. Double-click the AppImage to start the installer.
 9. The installer will automatically check the system and install the applications and it's dependency necessary.
