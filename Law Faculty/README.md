@@ -18,19 +18,13 @@ The goal of this project is simple:
 - **No need to manually install dozens of applications one by one**
 - **Use lightweight Linux software to extend the useful life of existing hardware**
 
-Overview:
-Install Lubuntu OS on your SSD or HDD on your own (go to YouTube search: how to install Lubuntu)
-after you have SSD/HDD with Lubuntu installed then open firefox browser to download our installer (JCS-Law-Faculty-Student-V1-final.AppImage) and double click it to run it.
-
 ---
 
 ## JCS - Law Faculty Students Installer
 
-Our installer will automatically check the system and install the required applications only by double click it.
-
 ### It will install all of these apps at once:
 
-1. ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
+1.  ONLYOFFICE	(Word processing, spreadsheets, presentations and document creation)
 2. WPS Office	(Word processing, spreadsheets, presentations and document creation)
 3. Joplin	(application to create multiple types of notes, reminders, and alarms)
 4. Obsidian	(powerful knowledge base that works on top of a local folder of plain text Markdown files)
@@ -59,20 +53,37 @@ Before you start:  please make sure you have a  stable internet connections duri
 
 ## Installation
 
-Before you start: please Install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD by your own (go to YouTube search key: how to install Lubuntu OS  to learn how to do it). After you have SSD/HDD with Lubuntu installed then open firefox browser to download our installer on this page & saved on the download folder.  Then click the file to run it. 
-It's been tested working fine on Lubuntu 26.04 LTS (i  don't have time yet to test it on Debian/Ubuntu or any other equivalent varian). Since Lubuntu based on Ubuntu, installing it to Debian/Ubuntu should be ok. 
+Please install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD on your own (search YouTube for "how to install Lubuntu OS" if you need a guide). Once your system has Lubuntu installed, you can proceed with the installation process below.
 
-Simply:
+FYI, `JCS-Law-Faculty-Student-V1-final.AppImage` will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
 
-1. Download the AppImage.
-2. Make sure the AppImage is executable.
-3. Double-click the AppImage to start the installer.
-4. The installer will automatically check the system and install the required applications.
+1. Open your terminal (press Ctrl + Alt + T).
+2. Update the package list:
+```text
+sudo apt update
+```
+Wait until the process finishes.
+
+3. Install Flatpak:
+```text
+sudo apt install flatpak -y
+```
+Wait until the process finishes.
+
+4. Add the Flathub repository:
+```text
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+Wait until the process finishes.
+
+5. Restart your computer so your desktop environment recognizes Flatpak integration.
+6. Open Firefox browser to download our installer from our release page and save it to your Downloads folder.
+7. Right-click the downloaded AppImage file, go to Properties/Permissions, and check the box to make it executable (or run `chmod +x` on the file).
+8. Double-click the AppImage to start the installer.
+9. The installer will automatically check the system and install the required applications.
 
 Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
-
----
 
 ## Tested Hardware
 
@@ -110,3 +121,4 @@ Jakarta, Indonesia
 
 ```text
 477caa9ccedb2cc9cce863b8a8ccdf88d1b737fcbf02b220e2bba21eb3e1b8f7  
+```
