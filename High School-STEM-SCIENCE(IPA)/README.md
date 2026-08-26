@@ -1,4 +1,4 @@
-# JCS - High School STEM /IPA /SCIENCE students installer
+# JCS - High School STEM/SCIENCE (IPA) [Students Installer]
 
 This is an installer application to install apps & tools that are widely used by High School students majoring  STEM /IPA /SCIENCE.  It could be useful to support daily/everyday students productivity on **latest Ubuntu / Debian / Lubuntu OS variants or equivalent**. 
 
