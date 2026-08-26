@@ -62,7 +62,7 @@ Before you start:  please make sure you have a  stable internet connections duri
 
 Please install the latest Debian/Ubuntu/Lubuntu OS on your SSD or HDD on your own (search YouTube for "how to install Lubuntu OS" if you need a guide). Once your system has Lubuntu installed, you can proceed with the installation process below.
 
-FYI, `JCS-High-School-STEM-IPA-SCIENCE-students-installer.AppImage` will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
+FYI, `JCS-High-School-HUMANITIES-SOCIAL-SCIENCE-students-installer.AppImage` will install all bundled applications, mostly via Flatpak. Because Lubuntu does not include Flatpak out of the box, you must set it up first:
 
 1. Open your terminal (press Ctrl + Alt + T).
 2. Update the package list:
