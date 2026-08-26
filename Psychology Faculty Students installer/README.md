@@ -20,35 +20,35 @@ The goal of this project is simple:
 ---
 ## JCS - Psychology Faculty Students installer
 ### It will install all of these apps at once:
+1. ONLYOFFICE  (Word processing, spreadsheets, presentations and document creation)
+2. WPS Office  (Word processing, spreadsheets, presentations and document creation)
+3. PsychoPy  (Aplication used primarily by psychologist, neuroscientist, and linguist to design, build and run behavioral experiments)
+4. TextSnatcher  (OCR extracting text from images, photographs and screenshots)
+5. GIMP  (Image editing, scientific illustrations and graphics)
+6. OBS Studio  (Screen recording, live streaming and project demonstration)
+7. Kdenlive  (Non-linear video editing and science-project video production)
+8. Google Chrome  (General web browsing, research and web applications)
+9. Opera GX  (Web browsing and digital-content activities)
+10. Inkscape	 (Vector graphics, diagrams and technical illustrations)
+11. Scribus  (Desktop publishing, posters and document layout)
+12. Zoom  (Online meetings, classes and collaboration)
+13. Microsoft Teams  (Online meetings, classes and collaboration)
+14. Telegram  (Messaging, communication and group collaboration)
+15. ZapZap  (Whatassap Chatting and messaging)
+16. draw.io  (Diagramming tool. Create flowcharts, process diagrams)
+17. CopyQ  (Clipboard manager with editing and scripting features)
+18. PeaZip  (Archive manager utility)
+19. Sticky Note  (flying notes on desktop) 
+20. LogSec  (A local-first, non-linear, outliner notebook)
+21. Joplin  (Opensource note taking and to-do application)
+22. Rnote  (Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures)
+23. KGeography  (geography learning tool, which allows you to learn about the political divisions of some countries)
+24. Discord  (free all in one messaging, voice, and video client)
+25. Notion  (all-in-one productivity and workspace application)
+26. Jamovi  (advanced, real-time, statisticial spreadsheet, providing a suite of common statistical methods such as descriptives, t-tests, ANOVAs, correlation matrices, proportion tests, contingency tables, and factor analysis)
+27. JASP  (cross platform statistical software program with a state-of-the-art graphical user interface)
+28. StirlingPDF  (PDF manipulation, conversion, merging, splitting and document processing)
 
-1. ONLYOFFICE - Word processing, spreadsheets, presentations and document creation
-2. WPS Office - Word processing, spreadsheets, presentations and document creation
-3. PsychoPy - Aplication used primarily by psychologist, neuroscientist, and linguist to design, build and run behavioral experiments.
-4. TextSnatcher - OCR extracting text from images, photographs and screenshots
-5. GIMP - Image editing, scientific illustrations and graphics
-6. OBS Studio - Screen recording, live streaming and project demonstration
-7. Kdenlive - Non-linear video editing and science-project video production
-8. Google Chrome - General web browsing, research and web applications
-9. Opera GX - Web browsing and digital-content activities
-10. Inkscape	- Vector graphics, diagrams and technical illustrations
-11. Scribus - Desktop publishing, posters and document layout
-12. Zoom - Online meetings, classes and collaboration
-13. Microsoft Teams - Online meetings, classes and collaboration
-14. Telegram - Messaging, communication and group collaboration
-15. ZapZap - Whatassap Chatting and messaging
-16. draw.io - Diagramming tool. Create flowcharts, process diagrams
-17. CopyQ - Clipboard manager with editing and scripting features.
-18. PeaZip - Archive manager utility
-19. Sticky Note -  flying notes on desktop 
-20. LogSec - A local-first, non-linear, outliner notebook
-21. Joplin - Opensource note taking and to-do application
-22. Rnote - Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures
-23. KGeography - geography learning tool, which allows you to learn about the political divisions of some countries
-24. Discord - free all in one messaging, voice, and video client
-25. Notion - all-in-one productivity and workspace application.
-26. Jamovi - advanced, real-time, statisticial spreadsheet, providing a suite of common statistical methods such as descriptives, t-tests, ANOVAs, correlation matrices, proportion tests, contingency tables, and factor analysis
-27. JASP - cross platform statistical software program with a state-of-the-art graphical user interface
-28. StirlingPDF - PDF manipulation, conversion, merging, splitting and document processing
 
 
 PLEASE NOTE:
