@@ -1,4 +1,4 @@
-# JCS Office Staff Application [Installer]
+# JCS Office Staff Application [Staff Installer]
 
 JCS Office Staff Application Installer is an installer in **AppImage format** designed to install applications that support everyday office productivity on **latest Ubuntu / Debian / Lubuntu OS variants or equivalent**.
 
