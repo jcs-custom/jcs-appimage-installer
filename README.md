@@ -11,7 +11,7 @@ different user groups occupancy, i.e educational faculties, and productivity req
 JCS AppImage Installer
         │
         ├── Office Staff
-        │     └── JCS Office Staff Application Installer v4.0.0
+        │     └── JCS-Office-Staff-Installer-v4-x86_64.AppImage
         │
         ├── Law Faculty
         │     └── Future
