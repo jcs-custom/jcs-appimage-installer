@@ -94,6 +94,11 @@ If you prefer a ready-to-use solution, you can order our **hardware SSD with enc
 We can also provide a **customized SSD configuration** based on your requirements. For inquiries and customization, please contact us via Telegram: **@Arievandjava**
 
 ---
+## Apps List suggestion
+
+Drop me a message via Telegram: **@Arievandjava** if you think there are some apps list should be added. I will more than happy to add it as soon as i have spare time to do it.
+
+---
 
 Regards,
 
