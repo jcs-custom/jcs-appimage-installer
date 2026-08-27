@@ -109,7 +109,11 @@ File:
 `JCS-Education-Science-Faculty-Student-V1.AppImage`
 
 ---
+## Apps List suggestion
 
+Drop me a message via Telegram: **@Arievandjava** if you think there are some apps list should be added. I will more than happy to add it as soon as i have spare time to do it.
+
+---
 ## Don't Want to Install Everything Yourself?
 
 If you prefer a ready-to-use solution, you can order our **hardware SSD with enclosure**, pre-configured with latest release of Lubuntu and all of the applications listed above. We can also provide a **customized SSD configuration** based on your requirements. For inquiries and customization, please contact us via Telegram: **@Arievandjava**
