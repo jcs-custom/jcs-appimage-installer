@@ -113,6 +113,11 @@ File:
 `JCS-Psychology-Faculty-students-installerVer01.AppImage`
 
 ---
+## Apps List suggestion
+
+Drop me a message via Telegram: **@Arievandjava** if you think there are some apps list should be added. I will more than happy to add it as soon as i have spare time to do it.
+
+---
 
 ## Don't Want to Install Everything Yourself?
 
@@ -129,5 +134,3 @@ Jakarta, Indonesia
 ```text
 62caf3ede392b7cdbd7ac7583ebb0171b409608c132e119d4d1a066f1a43a8ca
 ```
-
-
