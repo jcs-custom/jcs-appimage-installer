@@ -135,6 +135,11 @@ File:
 `JCS-Economic.Faculty-students-ver1.0.AppImage`
 
 ---
+## Apps List suggestion
+
+Drop me a message via Telegram: **@Arievandjava** if you think there are some apps list should be added. I will more than happy to add it as soon as i have spare time to do it.
+
+---
 
 ## Don't Want to Install Everything Yourself?
 
