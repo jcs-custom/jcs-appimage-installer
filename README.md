@@ -20,9 +20,9 @@ JCS AppImage Installer
         │     └── JCS-Education-Science-Faculty-Student-V1.AppImage
         │
         ├── Economic Faculty
-        │     └── Future
+        │     └── JCS-Economic.Faculty-students-ver1.0.AppImage
         │
-        ├── Management Faculty
+        ├── Psychology Faculty
         │     └── Future
         │
         └── Other JCS Installers
