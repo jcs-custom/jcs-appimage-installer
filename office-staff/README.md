@@ -111,6 +111,12 @@ File:
 
 `JCS-Office-Staff-Installer-v4-x86_64.AppImage`
 
+
+---
+## Apps List suggestion
+
+Drop me a message via Telegram: **@Arievandjava** if you think there are some apps list should be added. I will more than happy to add it as soon as i have spare time to do it.
+
 ---
 
 ## Don't Want to Install Everything Yourself?
@@ -128,6 +134,3 @@ Jakarta, Indonesia
 ```text
 605d1e0eeafa589c564fdaa5923c782b226859f53cf986b870e9289bba4e493e
 ```
-
-**Java Cyber Sovereignty**  
-Jakarta, Indonesia
