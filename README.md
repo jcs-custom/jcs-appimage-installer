@@ -26,7 +26,7 @@ JCS AppImage Installer
         │     └── JCS-Psychology-Faculty-students-installerVer01.AppImage
         │
         └── High School Humanities Social (IPS)
-        │     └── Future
+        │     └── JCS-High-School-HUMANITIES-SOCIAL-SCIENCE-students-installer.AppImage
         │
         └── High School STEM / Science (IPA)
               └── Future 
