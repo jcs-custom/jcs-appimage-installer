@@ -14,7 +14,7 @@ JCS AppImage Installer
         │     └── JCS-Office-Staff-Installer-v4-x86_64.AppImage
         │
         ├── Law Faculty
-        │     └── Future
+        │     └── JCS-Law-Faculty-Student-V1-final.AppImage
         │
         ├── Education Faculty
         │     └── Future
