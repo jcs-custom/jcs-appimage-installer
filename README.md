@@ -16,10 +16,10 @@ JCS AppImage Installer
         ├── Law Faculty
         │     └── JCS-Law-Faculty-Student-V1-final.AppImage
         │
-        ├── Education Faculty
-        │     └── Future
+        ├── Education Science Faculty
+        │     └── JCS-Education-Science-Faculty-Student-V1.AppImage
         │
-        ├── Business Faculty
+        ├── Economic Faculty
         │     └── Future
         │
         ├── Management Faculty
