@@ -29,7 +29,7 @@ JCS AppImage Installer
         │     └── JCS-High-School-HUMANITIES-SOCIAL-SCIENCE-students-installer.AppImage
         │
         └── High School STEM / Science (IPA)
-              └── Future 
+              └── JCS-High-School-STEM-IPA-SCIENCE-students-installer.AppImage
 ```
 
 All will released through the JCS AppImage Installer platform. It's designed to ease user to install all applications needed base on user group occupancy (office, law faculty student, Education faculty student, etc) on Ubuntu / Debian / Lubuntu varian or equivalent Linux distributions. Fast, free, reliable and hardware freedom - perfect combo.       
