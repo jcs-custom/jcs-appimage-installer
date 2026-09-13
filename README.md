@@ -86,6 +86,26 @@ Applications that are already installed on your OS will be detected and skipped.
 There is no need to manually install each application individually.
 
 ---
+## Tested
+This software has been developed and tested on the hardware configuration listed below.:
+
+- OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+- Kernel: Linux 7.0.0-31-generic
+- Host: HP Compaq 8200 Elite SFF PC
+- RAM: 8 GB
+- Disk (/): 54.15 GiB SSD
+- CPU: Intel® Core™ i3-2120 (2nd Generation / Sandy Bridge), 4 threads @ 3.30 GHz, released in 2011
+- GPU: Intel® 2nd Generation Core Processor Family Integrated Graphics Controller (onboard)
+- Display: 1366 × 768 @ 60 Hz
+- Desktop Environment: LXQt
+
+Hardware Validation Notice:
+- For the best compatibility and user experience, we strongly recommend installing and running this software on a recent Lubuntu release using an Intel 2nd Generation Core processor (Sandy Bridge - released in 2011) or newer, or an equivalent AMD or other x86_64 processor.
+- Hardware with less than 8 GB of RAM, older processors, mechanical hard drives (HDDs), older graphics hardware, or other system-specific configurations may experience reduced performance or compatibility issues.
+
+The software may also run on older or different computer configurations; however, compatibility, performance, and functionality cannot be guaranteed on every system.
+
+---
 
 ## Don't Want to Install Everything Yourself?
 
